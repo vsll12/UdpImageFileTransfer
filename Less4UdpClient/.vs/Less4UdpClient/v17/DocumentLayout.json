@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\NetworkProgramming\\UdpImageFileTransfer\\Less4UdpClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CABDCFA7-41CC-4A3E-B3D3-561D7EA69EBE}|..\\UpdServer\\UpdServer.csproj|c:\\users\\dell\\desktop\\networkprogramming\\udpimagefiletransfer\\updserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0572D35-8B08-40F0-AF31-94D85E1767D9}|Less4UdpClient.csproj|c:\\users\\dell\\desktop\\networkprogramming\\udpimagefiletransfer\\less4udpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0572D35-8B08-40F0-AF31-94D85E1767D9}|Less4UdpClient.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\NetworkProgramming\\UdpImageFileTransfer\\UpdServer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\UpdServer\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\NetworkProgramming\\UdpImageFileTransfer\\UpdServer\\Program.cs",
+              "RelativeToolTip": "..\\UpdServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:08:59.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\NetworkProgramming\\UdpImageFileTransfer\\Less4UdpClient\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\NetworkProgramming\\UdpImageFileTransfer\\Less4UdpClient\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:25:52.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
